@@ -6,3 +6,4 @@
 
 4- O que é merge?
 
+5- O que é pull?
