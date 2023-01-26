@@ -4,6 +4,9 @@ os arquivos de repositório remoto para um repositório local.
 Uma cópia do respositório remoto para máquina local.
 
 2- O que é comit?
+Um commit é o ato de enviar e guardar, ou seja, enviar dados ou códigos para
+armazenamento em um banco de dados ou em um sistema de controle de versão.
+Empacotamento de alterações.
 
 3- O que é um repositório?
 
