@@ -2,3 +2,5 @@
 
 2- O que é comit?
 
+3- O que é um repositório?
+
