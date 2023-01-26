@@ -9,3 +9,5 @@
 5- O que é pull?
 
 6- O que é push?
+
+7- O que é um branch?
