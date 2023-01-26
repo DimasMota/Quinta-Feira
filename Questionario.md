@@ -11,3 +11,5 @@
 6- O que é push?
 
 7- O que é um branch?
+
+8- O que é pull request?
