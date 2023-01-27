@@ -40,4 +40,9 @@ precisam fazer o merge do código na branch principal.
 fork é basicamente a modificação do código-fonte da blockchain do projeto.
 
 10- O que é um VCS?
+Sistema de Controle de versão- VCS (version control system)
+O controle de versão, também conhecido como controle de fonte, é a prática de rastrear
+e gerenciar as alterações em um código de software. Os sistemas de controle de versão são
+ferramentas de software que ajudam as equipes de software a gerenciar as alterações ao
+código-fonte ao longo do tempo.
 
