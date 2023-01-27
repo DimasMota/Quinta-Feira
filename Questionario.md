@@ -32,7 +32,11 @@ arquivos do projeto principal. Depois de concluir a atualização dos códigos d
 você pode mesclar a ramificação com a principal, geralmente chamada de master.
 
 8- O que é pull request?
+Pull Request quer dizer solicitação de puxar, em uma tradução livre. E isso está diretamente
+ligado ao fato de que, ao enviar a notificação, as demais pessoas desenvolvedoras saberão que
+precisam fazer o merge do código na branch principal.
 
 9- O que é fork?
 
 10- O que é um VCS?
+
