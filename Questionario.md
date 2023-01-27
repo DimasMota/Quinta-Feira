@@ -22,6 +22,7 @@ A tradução de pull do inglês para o português é puxar, então o git pull pu
 as alterações de um repositório remoto para o local.
 
 6- O que é push?
+Enviar alterações do repositório local para o repositório remoto.
 
 7- O que é um branch?
 
