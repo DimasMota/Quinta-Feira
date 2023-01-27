@@ -14,6 +14,8 @@ arquivo. Você pode discutir e gerenciar o trabalho do projeto dentro do reposit
 É uma pasta onde ficam os arquivos do projeto.
 
 4- O que é merge?
+O comando git merge permite que você pegue as linhas de desenvolvimento independentes
+criadas pelo git branch e as integre em uma ramificação única.
 
 5- O que é pull?
 
