@@ -37,6 +37,7 @@ ligado ao fato de que, ao enviar a notificação, as demais pessoas desenvolvedo
 precisam fazer o merge do código na branch principal.
 
 9- O que é fork?
+fork é basicamente a modificação do código-fonte da blockchain do projeto.
 
 10- O que é um VCS?
 
