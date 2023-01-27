@@ -18,6 +18,8 @@ O comando git merge permite que você pegue as linhas de desenvolvimento indepen
 criadas pelo git branch e as integre em uma ramificação única.
 
 5- O que é pull?
+A tradução de pull do inglês para o português é puxar, então o git pull puxa, traz 
+as alterações de um repositório remoto para o local.
 
 6- O que é push?
 
