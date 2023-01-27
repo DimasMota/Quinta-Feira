@@ -46,7 +46,7 @@ precisam fazer o merge do código na branch principal.
 
 9- O que é fork?
 
-fork é basicamente a modificação do código-fonte da blockchain do projeto.
+Copiar um repositório
 
 10- O que é um VCS?
 
