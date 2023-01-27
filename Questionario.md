@@ -46,7 +46,7 @@ precisam fazer o merge do código na branch principal.
 
 9- O que é fork?
 
-Copiar um repositório
+Copiar um repositório de outro usuário.
 
 10- O que é um VCS?
 
