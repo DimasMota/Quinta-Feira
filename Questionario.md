@@ -25,6 +25,11 @@ as alterações de um repositório remoto para o local.
 Enviar alterações do repositório local para o repositório remoto.
 
 7- O que é um branch?
+Uma ramificação no git é um ponteiro para as alterações feitas nos arquivos do projeto.
+É útil em situações nas quais você deseja adicionar um novo recurso ou corrigir um erro,
+gerando uma nova ramificação garantindo que o código instável não seja mesclado nos
+arquivos do projeto principal. Depois de concluir a atualização dos códigos da ramificação,
+você pode mesclar a ramificação com a principal, geralmente chamada de master.
 
 8- O que é pull request?
 
