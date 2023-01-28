@@ -4,34 +4,52 @@ CANETA
 
 atributos(caracteristicas)
 
-12 centimetros
+Tamanho: 12 centimetros
 
-01 suporte na parte superior
+suporte na parte superior: sim ou não
 
-material emborachado na parte superior
+material: 
 
-ponta 07 esferogradica
+Tipo de ponta: 07 esferogradica
 
-cabeça da caneta
+modelo de ponta: ponta retratil
+
+cor: preta
+
+tinta: cor preta
+
+modelo:
+
+marca:
+
+formato: circular, parte inferior funilada
+
+peso:
+
+tipo de pegada: 
+
+cabeça acionadora:
 
 lavanca
 
-ponta retratil
+bocal: sim ou nao
 
-cor preta
 
-tinta cor preta
 
-caneta cor preta
+
+
+
+
+
 
 
 Metodos (ações ou funções)
 
-libera tinta ao ser precionada na superfície correta
+liberar tinta ao ser precionada na superfície correta
 
 suporte na parte superior tem a função de retrair a ponta quando precionado
 
-cabeça da caneta tem a funçao de externar a ponta da caneta quando precionado
+cabeça da caneta retratil tem a funçao de externar a ponta da caneta quando precionado
 
 
 
@@ -40,4 +58,4 @@ Estado
 Usada
 aparência desgastada
 pouca tinta
-
+ponta exposta ou não
